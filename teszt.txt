@@ -5,5 +5,4 @@ Jenő, férfi, 16
 Ági, nő, 34
 András, férfi, 50
 Dóra, nő, 22
-Alexa, nő, 25
-Gábor, férfi, 25
+Anna, nő, 74
